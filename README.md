@@ -1,5 +1,6 @@
 # personal freedom index
  Personal freedom is the freedom of every law-abiding individual in a given country.  to think what he will, to express his view freely in line with the law of the residing country, without hindrance from any other individuals. 
+![image](https://user-images.githubusercontent.com/93994545/206681509-1cb5c333-95f9-4c15-9135-2d04ef5fe0bb.png)
 
 ### Steps involved in analyzing this Dataset![image](https://user-images.githubusercontent.com/93994545/206674886-867d27a5-4780-48ec-a717-abf0f83c5b16.png)
 Based on the data gotten from the Human Freedom Index, personal freedom of each country was analyzed in line with the following questions.
